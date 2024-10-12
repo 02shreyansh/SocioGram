@@ -32,8 +32,10 @@ To install SocioGram, follow these steps:
 
 2. Install dependencies for both the server and client:
    ```
+   cd .\frontend\
    npm install
-   cd client
+   cd ..
+   cd .\backend\ 
    npm install
    cd ..
    ```
@@ -63,16 +65,17 @@ To run SocioGram, use the following commands:
 
 1. Start the server:
    ```
-   npm run server
+   cd .\backend\ 
+   npm run dev
    ```
 
 2. In a separate terminal, start the client:
    ```
-   cd client
-   npm start
+   cd .\frontend\
+   npm run dev
    ```
 
-3. Open your browser and navigate to `http://localhost:3000` to access the application.
+3. Open your browser and navigate to `http://localhost:5173` to access the application.
 
 ## Contributing
 
@@ -92,6 +95,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or feedback, please reach out to us at [your-email@example.com](mailto:shreyansh2102004@gmail.com).
 
 Thank you for your interest in SocioGram!
