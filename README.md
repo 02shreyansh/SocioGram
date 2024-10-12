@@ -95,6 +95,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us at [your-email@example.com](mailto:shreyansh2102004@gmail.com).
+If you have any questions or feedback, please reach out to us at [shreyansh2102004@gmail.com](mailto:shreyansh2102004@gmail.com).
 
 Thank you for your interest in SocioGram!
